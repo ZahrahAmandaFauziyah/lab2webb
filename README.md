@@ -1,3 +1,7 @@
+Nama : Zahrah Amanda Fauziyah
+Kelas : TI.24.A.2
+NIM : 312410193
+
     Pertanyaan dan Tugas :
     
     1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
